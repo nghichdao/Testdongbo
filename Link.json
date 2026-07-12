@@ -1,6 +1,7 @@
 {
   "enabled": true,
   "redirects": {
-    "160-2": "gorabetgiris.mobi/vi-vn"
+    "160-2": "gorabetgiris.mobi/vi-vn",
+    "220-2": "gorabetgiris.mobi"
   }
 }
